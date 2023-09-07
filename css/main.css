@@ -1,0 +1,22 @@
+::-webkit-scrollbar {
+    display: none;
+}
+
+body {
+    background-image: url("/images/wallpaper.png") !important;
+    background-repeat: no-repeat;
+    background-size: cover !important;
+    background-position: center !important;
+    background-attachment: fixed !important;
+    width: 100% !important;
+    height: 100% !important;
+}
+
+.footer {
+    width: 100% !important;
+    position: fixed;
+    bottom: 0;
+
+}
+
+/* icons */
